@@ -61,6 +61,8 @@ What can it do so far?
 
 - Tested on VMware, Bochs, and a real PC.
 
+- It has a simple serial driver.
+
 
 How can I use it?
 -----------------
